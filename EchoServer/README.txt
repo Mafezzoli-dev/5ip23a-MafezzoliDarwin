@@ -32,4 +32,7 @@ To start the Echo client execute the following command:
               ListenerPort     is the listener port of the EchoServer
 
 
+Das ist ein Test
+
+
 			  
